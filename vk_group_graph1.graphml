@@ -1,0 +1,6009 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="node" attr.name="university_name" attr.type="string" />
+  <key id="d2" for="node" attr.name="last_name" attr.type="string" />
+  <key id="d1" for="node" attr.name="first_name" attr.type="string" />
+  <key id="d0" for="node" attr.name="sex" attr.type="int" />
+  <graph edgedefault="undirected">
+    <node id="709122">
+      <data key="d0">1</data>
+      <data key="d1">Марина</data>
+      <data key="d2">Александрова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="782078">
+      <data key="d0">1</data>
+      <data key="d1">Татьяна</data>
+      <data key="d2">Воржина</data>
+      <data key="d3">ЛГУ им. А. С. Пушкина</data>
+    </node>
+    <node id="1245186">
+      <data key="d0">2</data>
+      <data key="d1">Константин</data>
+      <data key="d2">Макаров</data>
+      <data key="d3">МАИ</data>
+    </node>
+    <node id="1840917">
+      <data key="d0">2</data>
+      <data key="d1">Всеволод</data>
+      <data key="d2">Голенков</data>
+      <data key="d3" />
+    </node>
+    <node id="3599756">
+      <data key="d0">1</data>
+      <data key="d1">Анюта</data>
+      <data key="d2">Петрова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="5043757">
+      <data key="d0">2</data>
+      <data key="d1">Вова</data>
+      <data key="d2">Степанов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="5194852">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Иванов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="5206565">
+      <data key="d0">2</data>
+      <data key="d1">Устин</data>
+      <data key="d2">Яников</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="5421845">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Смирнова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="6518939">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Клевцов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="6572624">
+      <data key="d0">2</data>
+      <data key="d1">Vladimir</data>
+      <data key="d2">Sergeevich</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="6811139">
+      <data key="d0">1</data>
+      <data key="d1">Алиса</data>
+      <data key="d2">Крохмаль</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="7349059">
+      <data key="d0">2</data>
+      <data key="d1">Боря</data>
+      <data key="d2">Гинзбург</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="8035956">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="8158434">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Полякова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="8225070">
+      <data key="d0">2</data>
+      <data key="d1">Филипп</data>
+      <data key="d2">Анюховский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="8292807">
+      <data key="d0">1</data>
+      <data key="d1">Таня</data>
+      <data key="d2">Кириллова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="8456527">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Осколков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="8636183">
+      <data key="d0">2</data>
+      <data key="d1">Mark</data>
+      <data key="d2">Dashyan</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="9039741">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Соколов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="9182616">
+      <data key="d0">2</data>
+      <data key="d1">Федор</data>
+      <data key="d2">Кравченко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="9301529">
+      <data key="d0">1</data>
+      <data key="d1">Daria</data>
+      <data key="d2">Kulikova</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="9416466">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Ковальков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="9650733">
+      <data key="d0">2</data>
+      <data key="d1">Виктор</data>
+      <data key="d2">Паперно</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="9693979">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Востров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="9739194">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Кропоткин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="9827113">
+      <data key="d0">2</data>
+      <data key="d1">Anton</data>
+      <data key="d2">Makarov</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="9852665">
+      <data key="d0">1</data>
+      <data key="d1">Лена</data>
+      <data key="d2">Иванова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="10021457">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Грачёва</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="10541576">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Коровянская</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="10639245">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Кочергин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="11105795">
+      <data key="d0">1</data>
+      <data key="d1">Валя</data>
+      <data key="d2">Голубничая</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="11320577">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Чуприков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="11433058">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Петров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="11545656">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Фраерман</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="11579404">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Тихонов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="11697017">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Новиков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="11752798">
+      <data key="d0">1</data>
+      <data key="d1">Ekaterina</data>
+      <data key="d2">Nazarova</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="11772834">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Пастернак</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="12119701">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Лазарев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="12169464">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Кеппер</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="12397205">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Иванова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="12438221">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Фрейдкин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="12840398">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="12844066">
+      <data key="d0">1</data>
+      <data key="d1">Наталья</data>
+      <data key="d2">Баранова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="13096532">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Моргунова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="13180765">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Пономарчук</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="13228549">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Мокрушин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="13529531">
+      <data key="d0">1</data>
+      <data key="d1">Наташа</data>
+      <data key="d2">Ситникова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="13628232">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Колосов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="13807896">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="13978580">
+      <data key="d0">1</data>
+      <data key="d1">Сашка</data>
+      <data key="d2">Филькова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="14087238">
+      <data key="d0">2</data>
+      <data key="d1">Керим</data>
+      <data key="d2">Аллахвердиев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="14664761">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Новиков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="14956244">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Митин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="14967256">
+      <data key="d0">2</data>
+      <data key="d1">Данил</data>
+      <data key="d2">Карсаков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="15647883">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Моисеенков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="15847737">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Лукин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="16634987">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="16740494">
+      <data key="d0">2</data>
+      <data key="d1">Григорий</data>
+      <data key="d2">Дьячков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="16897964">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Дуликов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="16915238">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Алешина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="17521751">
+      <data key="d0">2</data>
+      <data key="d1">Пётр</data>
+      <data key="d2">Савельев</data>
+      <data key="d3" />
+    </node>
+    <node id="17655139">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Барановский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="17778019">
+      <data key="d0">1</data>
+      <data key="d1">Алёна</data>
+      <data key="d2">Сергеева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="17839203">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Пантелеев</data>
+      <data key="d3" />
+    </node>
+    <node id="17851839">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Синильщиков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="17955740">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Крапивина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="18007246">
+      <data key="d0">1</data>
+      <data key="d1">Софья</data>
+      <data key="d2">Талавринова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="18594353">
+      <data key="d0">1</data>
+      <data key="d1">София</data>
+      <data key="d2">Кисиль</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="18850478">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Виноградов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="18867131">
+      <data key="d0">2</data>
+      <data key="d1">Валерий</data>
+      <data key="d2">Химуля</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="19096358">
+      <data key="d0">2</data>
+      <data key="d1">Петя</data>
+      <data key="d2">Савченко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="19162369">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Парняков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="19254025">
+      <data key="d0">1</data>
+      <data key="d1">Варя</data>
+      <data key="d2">Харитонова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="19264988">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Иванов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="19421559">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Белинский</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="19722254">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Бобылёв</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="19947257">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Черноглазова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="20035630">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Мельникова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="20207509">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="20261561">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="20367388">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="20495901">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Анненков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="20512852">
+      <data key="d0">2</data>
+      <data key="d1">Георгий</data>
+      <data key="d2">Гарбузов</data>
+      <data key="d3">МГТУ им. Н. Э. Баумана</data>
+    </node>
+    <node id="20732832">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Дегтярёв</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="20817210">
+      <data key="d0">1</data>
+      <data key="d1">Барбара</data>
+      <data key="d2">Мерзук</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="21024909">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="21064396">
+      <data key="d0">2</data>
+      <data key="d1">Тагир</data>
+      <data key="d2">Садретдинов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="21069436">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Базулин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="21092637">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Королёв</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="21095053">
+      <data key="d0">2</data>
+      <data key="d1">Марк</data>
+      <data key="d2">Туровецкий</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="21141098">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Петухова</data>
+      <data key="d3">МФТИ (Физтех)</data>
+    </node>
+    <node id="21224712">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Супрунов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="21415824">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Гончаров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="21762438">
+      <data key="d0">1</data>
+      <data key="d1">Глаша</data>
+      <data key="d2">Степанова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="21783238">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Лазарева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="21913798">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Падерин</data>
+      <data key="d3" />
+    </node>
+    <node id="21917513">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Воробей</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="22029468">
+      <data key="d0">1</data>
+      <data key="d1">Олеся</data>
+      <data key="d2">Брагина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="22136088">
+      <data key="d0">1</data>
+      <data key="d1">Олеся</data>
+      <data key="d2">Костенко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="22352231">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="22401275">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Ермаков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="22505028">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Шорин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="22557274">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Ахметжанов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="22718048">
+      <data key="d0">1</data>
+      <data key="d1">Ольга</data>
+      <data key="d2">Багрова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="22765164">
+      <data key="d0">1</data>
+      <data key="d1">Ирина</data>
+      <data key="d2">Банникова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="22771912">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Азаров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="22865666">
+      <data key="d0">1</data>
+      <data key="d1">Вера</data>
+      <data key="d2">Постникова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="22881204">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Соколинский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="23186407">
+      <data key="d0">2</data>
+      <data key="d1">Шамиль</data>
+      <data key="d2">Асфандияров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="23338064">
+      <data key="d0">2</data>
+      <data key="d1">Мирон</data>
+      <data key="d2">Бутко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="23388153">
+      <data key="d0">2</data>
+      <data key="d1">Миша</data>
+      <data key="d2">Вальков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="23543085">
+      <data key="d0">1</data>
+      <data key="d1">Алиса</data>
+      <data key="d2">Шайхулова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="23570488">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Орлов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="23725792">
+      <data key="d0">2</data>
+      <data key="d1">Артемий</data>
+      <data key="d2">Синельников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="23781490">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Богданов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="24282129">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Крупенко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="24409598">
+      <data key="d0">2</data>
+      <data key="d1">Руслан</data>
+      <data key="d2">Богатов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="24449535">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Малышев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="24472020">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Болдова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="24724564">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Трутовская</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="24866195">
+      <data key="d0">2</data>
+      <data key="d1">Колян</data>
+      <data key="d2">Панаиоти</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="25178397">
+      <data key="d0">2</data>
+      <data key="d1">Виктор</data>
+      <data key="d2">Селютин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="25456244">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Коваленко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="25468844">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Маринин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="25570643">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Никифоров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="25832098">
+      <data key="d0">2</data>
+      <data key="d1">Sasha</data>
+      <data key="d2">Sour</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="25838512">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Бувина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="26377794">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Темнова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="26441893">
+      <data key="d0">1</data>
+      <data key="d1">Вредная</data>
+      <data key="d2">Оо</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="26520856">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Милтон</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="26663918">
+      <data key="d0">1</data>
+      <data key="d1">Светик</data>
+      <data key="d2">Пантелеева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="26673349">
+      <data key="d0">1</data>
+      <data key="d1">Ольга</data>
+      <data key="d2">Кибанова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="26747914">
+      <data key="d0">2</data>
+      <data key="d1">Серёжа</data>
+      <data key="d2">Огнев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="26772195">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Семчинов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="26903398">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Стриж</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="26979663">
+      <data key="d0">1</data>
+      <data key="d1">Света</data>
+      <data key="d2">Артюкова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="27128632">
+      <data key="d0">1</data>
+      <data key="d1">Нелли</data>
+      <data key="d2">Гнездовская</data>
+      <data key="d3" />
+    </node>
+    <node id="27363948">
+      <data key="d0">2</data>
+      <data key="d1">Слава</data>
+      <data key="d2">Нестерцев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="27373026">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Ермаков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="27607039">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Сафроненков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="27618635">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Мельников</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="27891409">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="28416620">
+      <data key="d0">1</data>
+      <data key="d1">Даша</data>
+      <data key="d2">Радева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="28443259">
+      <data key="d0">1</data>
+      <data key="d1">Евгения</data>
+      <data key="d2">Филимонова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="28610187">
+      <data key="d0">2</data>
+      <data key="d1">Глеб</data>
+      <data key="d2">Тюлягин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="29110674">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="29365813">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Рабинович</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="29380915">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Лунина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="29744455">
+      <data key="d0">2</data>
+      <data key="d1">Евгений</data>
+      <data key="d2">Галенко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="29815922">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Матвиенко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="29926694">
+      <data key="d0">2</data>
+      <data key="d1">Стас</data>
+      <data key="d2">Жбанников</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="30300193">
+      <data key="d0">2</data>
+      <data key="d1">Кеня</data>
+      <data key="d2">Охотников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="30333764">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Чугунова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="30443965">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Кунтурова</data>
+      <data key="d3" />
+    </node>
+    <node id="30549710">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Скобёлкина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="30570344">
+      <data key="d0">2</data>
+      <data key="d1">Борис</data>
+      <data key="d2">Соболев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="30594873">
+      <data key="d0">1</data>
+      <data key="d1">Даша</data>
+      <data key="d2">Смоленцева</data>
+      <data key="d3" />
+    </node>
+    <node id="30610407">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Кандзюба</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="31110660">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Пугачёва</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="31195391">
+      <data key="d0">2</data>
+      <data key="d1">Данил</data>
+      <data key="d2">Грибков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="31256116">
+      <data key="d0">1</data>
+      <data key="d1">Надюшка</data>
+      <data key="d2">Усова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="31593733">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Чернявский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="31664768">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Бегун</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="31987615">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Скворцова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32156748">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Новиков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32184012">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Павликов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32286548">
+      <data key="d0">1</data>
+      <data key="d1">Ника</data>
+      <data key="d2">Дмитриева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32294220">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Альперович</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32373462">
+      <data key="d0">2</data>
+      <data key="d1">Евгений</data>
+      <data key="d2">Бочков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32436052">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Новикова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32465207">
+      <data key="d0">2</data>
+      <data key="d1">Константин</data>
+      <data key="d2">Матвеев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32516548">
+      <data key="d0">1</data>
+      <data key="d1">Маргарита</data>
+      <data key="d2">Артемьева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32610611">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="32618266">
+      <data key="d0">2</data>
+      <data key="d1">Матвей</data>
+      <data key="d2">Михальчук</data>
+      <data key="d3" />
+    </node>
+    <node id="32697760">
+      <data key="d0">2</data>
+      <data key="d1">Димитрий</data>
+      <data key="d2">Серов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32958730">
+      <data key="d0">2</data>
+      <data key="d1">Сава</data>
+      <data key="d2">Бабин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="32993572">
+      <data key="d0">1</data>
+      <data key="d1">Ната</data>
+      <data key="d2">Улькина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="33056839">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Крылов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="33087953">
+      <data key="d0">1</data>
+      <data key="d1">Дарина</data>
+      <data key="d2">Лимон</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="33171892">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Шилинговский</data>
+      <data key="d3" />
+    </node>
+    <node id="33272230">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Королев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="33285543">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Бахтин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="33379513">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Обухов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="33639341">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Колосова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="34003465">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Литвиненко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="34148334">
+      <data key="d0">2</data>
+      <data key="d1">Юрий</data>
+      <data key="d2">Нестеренко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="34428640">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Русинова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="34804666">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Королева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="34885502">
+      <data key="d0">2</data>
+      <data key="d1">Семён</data>
+      <data key="d2">Сыроватский</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="35107216">
+      <data key="d0">2</data>
+      <data key="d1">Ярослав</data>
+      <data key="d2">Стекольщиков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="35217058">
+      <data key="d0">2</data>
+      <data key="d1">Константин</data>
+      <data key="d2">Пашков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="35375663">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Петрова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="35402659">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Мохова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="35630125">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Демьяненко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="35788097">
+      <data key="d0">1</data>
+      <data key="d1">Марина</data>
+      <data key="d2">Саранцева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="35886154">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Дьяков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="35984460">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Морозов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="36171700">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Константинов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="36248745">
+      <data key="d0">1</data>
+      <data key="d1">Галина</data>
+      <data key="d2">Мезрина</data>
+      <data key="d3">ВятГГУ (бывш. ВГПУ)</data>
+    </node>
+    <node id="36375419">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Антонов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="36456813">
+      <data key="d0">2</data>
+      <data key="d1">Гоша</data>
+      <data key="d2">Рогуленко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="36470488">
+      <data key="d0">2</data>
+      <data key="d1">Пьяный</data>
+      <data key="d2">Мастер</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="36563377">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Вонгольская</data>
+      <data key="d3" />
+    </node>
+    <node id="36665888">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Скворцов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="36704197">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Комлев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="36748721">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Королькова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="36753798">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Попкова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="36818979">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Валуева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="36916004">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Высоцкий</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="37302473">
+      <data key="d0">1</data>
+      <data key="d1">Света</data>
+      <data key="d2">Иноземцева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="37392179">
+      <data key="d0">1</data>
+      <data key="d1">Капитолина</data>
+      <data key="d2">Болконская</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="37506990">
+      <data key="d0">2</data>
+      <data key="d1">Лёша</data>
+      <data key="d2">Захаренко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="37710397">
+      <data key="d0">1</data>
+      <data key="d1">Вероника</data>
+      <data key="d2">Третьякова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="37846574">
+      <data key="d0">2</data>
+      <data key="d1">Олег</data>
+      <data key="d2">Макаров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="38059843">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Асташенков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="38311629">
+      <data key="d0">2</data>
+      <data key="d1">Анвар</data>
+      <data key="d2">Валиев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="38540434">
+      <data key="d0">2</data>
+      <data key="d1">Борис</data>
+      <data key="d2">Морозов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="39028684">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Никонов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="39051671">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Белоусов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="39052565">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Кушников</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="39072765">
+      <data key="d0">2</data>
+      <data key="d1">Fnap</data>
+      <data key="d2">Fnap</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="39081337">
+      <data key="d0">1</data>
+      <data key="d1">Ольга</data>
+      <data key="d2">Слинько</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="39189250">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Петрищин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="39281648">
+      <data key="d0">1</data>
+      <data key="d1">Настя</data>
+      <data key="d2">Белкина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="39442001">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Темерев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="39853721">
+      <data key="d0">1</data>
+      <data key="d1">Надежда</data>
+      <data key="d2">Злобина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="40007305">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Богомолов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="40357046">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Смирнов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="40483465">
+      <data key="d0">2</data>
+      <data key="d1">Виталий</data>
+      <data key="d2">Хак</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="40553507">
+      <data key="d0">1</data>
+      <data key="d1">Вероника</data>
+      <data key="d2">Беляева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="40702935">
+      <data key="d0">1</data>
+      <data key="d1">Вера</data>
+      <data key="d2">Пустынникова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="40758551">
+      <data key="d0">1</data>
+      <data key="d1">Елена</data>
+      <data key="d2">Савченко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="40863753">
+      <data key="d0">2</data>
+      <data key="d1">Макс</data>
+      <data key="d2">Руденко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="40883245">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Пащенко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="41078728">
+      <data key="d0">1</data>
+      <data key="d1">Диана</data>
+      <data key="d2">Товмасян</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="41522635">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Яковлева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="41717151">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Теплоухова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="41797899">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Панфилов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="41839846">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Личкунов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="42014377">
+      <data key="d0">2</data>
+      <data key="d1">Емельян</data>
+      <data key="d2">Шестаковский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="42053834">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Степанов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="42195616">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Кожушный</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="42293857">
+      <data key="d0">1</data>
+      <data key="d1">Марина</data>
+      <data key="d2">Ушакова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="42540885">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Савинов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="43114710">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Рыбин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="43586016">
+      <data key="d0">1</data>
+      <data key="d1">Тоня</data>
+      <data key="d2">Сапожникова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="43714936">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Лакидон</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="43930154">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Мефодьева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="44094723">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Горбунов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="44144085">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Дюков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="44308631">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Рудаменко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="44728406">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Усанов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="44735700">
+      <data key="d0">1</data>
+      <data key="d1">Галя</data>
+      <data key="d2">Чугреева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="45203946">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Мартьянов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="45707458">
+      <data key="d0">1</data>
+      <data key="d1">София</data>
+      <data key="d2">Маточкина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="45755790">
+      <data key="d0">1</data>
+      <data key="d1">Ксения</data>
+      <data key="d2">Карева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="46175419">
+      <data key="d0">2</data>
+      <data key="d1">Даня</data>
+      <data key="d2">Бобров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="46492233">
+      <data key="d0">2</data>
+      <data key="d1">Олег</data>
+      <data key="d2">Вальяников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="46500448">
+      <data key="d0">1</data>
+      <data key="d1">Наталья</data>
+      <data key="d2">Артемьева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="46596315">
+      <data key="d0">1</data>
+      <data key="d1">Настя</data>
+      <data key="d2">Фефлер</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="46960622">
+      <data key="d0">2</data>
+      <data key="d1">Ильдар</data>
+      <data key="d2">Кондратьев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="47201054">
+      <data key="d0">1</data>
+      <data key="d1">Стася</data>
+      <data key="d2">Максимовская</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="47361222">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Новоселов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="47476918">
+      <data key="d0">2</data>
+      <data key="d1">Макс</data>
+      <data key="d2">Самсонов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="47516742">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Куманькин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="47622828">
+      <data key="d0">2</data>
+      <data key="d1">Марьян</data>
+      <data key="d2">Буевич</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="48015518">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Зуев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="48067493">
+      <data key="d0">1</data>
+      <data key="d1">Татьяна</data>
+      <data key="d2">Николаева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="48518321">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Лаврентьев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="48661930">
+      <data key="d0">2</data>
+      <data key="d1">Макар</data>
+      <data key="d2">Симонов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="48685697">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Храмов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="48828459">
+      <data key="d0">2</data>
+      <data key="d1">Яков</data>
+      <data key="d2">Резников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="49068381">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Иванов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="49154753">
+      <data key="d0">1</data>
+      <data key="d1">Светлана</data>
+      <data key="d2">Андреева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="49260559">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Юркова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="49358753">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Шепелев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="49385895">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Бушуев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="49387127">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Мелкозёрова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="49455598">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Бевзо</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="49515300">
+      <data key="d0">2</data>
+      <data key="d1">Артем</data>
+      <data key="d2">Халилов</data>
+      <data key="d3" />
+    </node>
+    <node id="49536825">
+      <data key="d0">2</data>
+      <data key="d1">Валерий</data>
+      <data key="d2">Кружков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="49574282">
+      <data key="d0">2</data>
+      <data key="d1">Maksim</data>
+      <data key="d2">Lysenko</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="49807644">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Шишкин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="49919863">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Зыбковец</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="49924735">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Юриков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="50046571">
+      <data key="d0">1</data>
+      <data key="d1">Настя</data>
+      <data key="d2">Балута</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="50055514">
+      <data key="d0">2</data>
+      <data key="d1">Саша</data>
+      <data key="d2">Ильясов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="50239250">
+      <data key="d0">1</data>
+      <data key="d1">Настя</data>
+      <data key="d2">Мосейчева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="50336866">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Лачко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="50672695">
+      <data key="d0">1</data>
+      <data key="d1">Daria</data>
+      <data key="d2">Komarova</data>
+      <data key="d3" />
+    </node>
+    <node id="50907035">
+      <data key="d0">1</data>
+      <data key="d1">Яна</data>
+      <data key="d2">Токур</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="50990837">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Космачев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="51054715">
+      <data key="d0">1</data>
+      <data key="d1">София</data>
+      <data key="d2">Туча</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="51079269">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Daria</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="51084541">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Павленко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="51141531">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Алешин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="51144065">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Алпатов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="51187391">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="51422887">
+      <data key="d0">1</data>
+      <data key="d1">Давид</data>
+      <data key="d2">Тоноян</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="51637394">
+      <data key="d0">2</data>
+      <data key="d1">Митя</data>
+      <data key="d2">Харитонов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="51738971">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Лысенко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52220507">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Овечкина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52428492">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Вьюгина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52460385">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Логинова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52501588">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Слон</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52593228">
+      <data key="d0">2</data>
+      <data key="d1">Лев</data>
+      <data key="d2">Якушкин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52634675">
+      <data key="d0">2</data>
+      <data key="d1">Артур</data>
+      <data key="d2">Гареев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52654079">
+      <data key="d0">1</data>
+      <data key="d1">Софья</data>
+      <data key="d2">Басовская</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52768636">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Рукавишников</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="52864853">
+      <data key="d0">1</data>
+      <data key="d1">Тома</data>
+      <data key="d2">Кузьмич</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="52964659">
+      <data key="d0">2</data>
+      <data key="d1">Митя</data>
+      <data key="d2">Батанов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="53025144">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Балдин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="53743911">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Костин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="53918776">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Ефимова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="54099216">
+      <data key="d0">1</data>
+      <data key="d1">Алена</data>
+      <data key="d2">Франк</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="54640387">
+      <data key="d0">2</data>
+      <data key="d1">Савелий</data>
+      <data key="d2">Луценко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="54765972">
+      <data key="d0">2</data>
+      <data key="d1">Евгений</data>
+      <data key="d2">Крам</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="54788742">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Карташова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="54847456">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Дмитриева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="55039383">
+      <data key="d0">1</data>
+      <data key="d1">Стася</data>
+      <data key="d2">Короткова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="55080646">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Рейн</data>
+      <data key="d3" />
+    </node>
+    <node id="55110693">
+      <data key="d0">2</data>
+      <data key="d1">Георгий</data>
+      <data key="d2">Данилов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="55269055">
+      <data key="d0">2</data>
+      <data key="d1">Евгений</data>
+      <data key="d2">Лещенко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="55317024">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Федотов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="55397488">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Константинов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="55677543">
+      <data key="d0">2</data>
+      <data key="d1">Юра</data>
+      <data key="d2">Цветнов</data>
+      <data key="d3" />
+    </node>
+    <node id="55866086">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Воробьёв</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="55878138">
+      <data key="d0">2</data>
+      <data key="d1">Френсис</data>
+      <data key="d2">Бафуинсони</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="55930567">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Лейтес</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="56008977">
+      <data key="d0">2</data>
+      <data key="d1">Юра</data>
+      <data key="d2">Говорухин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="56025232">
+      <data key="d0">2</data>
+      <data key="d1">Vladimir</data>
+      <data key="d2">Kravchenco</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="56190229">
+      <data key="d0">2</data>
+      <data key="d1">Эдуард</data>
+      <data key="d2">Урсов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="56516889">
+      <data key="d0">1</data>
+      <data key="d1">Виктория</data>
+      <data key="d2">Егошина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="56563256">
+      <data key="d0">1</data>
+      <data key="d1">Елена</data>
+      <data key="d2">Гоноровская</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="56564134">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Батуев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="56615216">
+      <data key="d0">2</data>
+      <data key="d1">Дима</data>
+      <data key="d2">Накашидзе</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="56633643">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Горелов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="56639335">
+      <data key="d0">2</data>
+      <data key="d1">Тихон</data>
+      <data key="d2">Голик</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="56713924">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="56791682">
+      <data key="d0">2</data>
+      <data key="d1">Татьяна</data>
+      <data key="d2">Чех</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="56890990">
+      <data key="d0">2</data>
+      <data key="d1">Миша</data>
+      <data key="d2">Котомин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="57013088">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Жигалина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="57166644">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Калинин</data>
+      <data key="d3" />
+    </node>
+    <node id="57280696">
+      <data key="d0">2</data>
+      <data key="d1">Виталий</data>
+      <data key="d2">Кобзев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="57288964">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Назарова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="57353977">
+      <data key="d0">2</data>
+      <data key="d1">Камиль</data>
+      <data key="d2">Салихзянов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="57566292">
+      <data key="d0">1</data>
+      <data key="d1">Яна</data>
+      <data key="d2">Зубрицкая</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="58252888">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Рябцев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="58262809">
+      <data key="d0">2</data>
+      <data key="d1">Богдан</data>
+      <data key="d2">Иванченко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="58385417">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Борисов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="58648230">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Дегтярев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="58706225">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Беляев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="58711460">
+      <data key="d0">1</data>
+      <data key="d1">Лиля</data>
+      <data key="d2">Варзарь</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="58831707">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Лоскутов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="58835154">
+      <data key="d0">1</data>
+      <data key="d1">Алина</data>
+      <data key="d2">Беляева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="59349601">
+      <data key="d0">2</data>
+      <data key="d1">Олег</data>
+      <data key="d2">Гюппенен</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="59546173">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Зарькова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="59618515">
+      <data key="d0">1</data>
+      <data key="d1">Лена</data>
+      <data key="d2">Коннова</data>
+      <data key="d3" />
+    </node>
+    <node id="60043092">
+      <data key="d0">1</data>
+      <data key="d1">Арина</data>
+      <data key="d2">Иванова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="60058945">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Лифатова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="60084049">
+      <data key="d0">2</data>
+      <data key="d1">Роберт</data>
+      <data key="d2">Закиров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="60137584">
+      <data key="d0">2</data>
+      <data key="d1">Серый</data>
+      <data key="d2">Татарин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="60267610">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Матвеева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="60922822">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Иванов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="61071571">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Заборенко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="61071824">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Волгин</data>
+      <data key="d3" />
+    </node>
+    <node id="61166767">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Воробьева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="61239959">
+      <data key="d0">2</data>
+      <data key="d1">Константин</data>
+      <data key="d2">Петров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="61439326">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Панкратов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="61678067">
+      <data key="d0">1</data>
+      <data key="d1">Элина</data>
+      <data key="d2">Хабибьянова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="61798106">
+      <data key="d0">2</data>
+      <data key="d1">Сёма</data>
+      <data key="d2">Пирчхадзе</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="61906393">
+      <data key="d0">2</data>
+      <data key="d1">Ильяс</data>
+      <data key="d2">Сулейманов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="61938647">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Зубрилин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="62068312">
+      <data key="d0">2</data>
+      <data key="d1">Макс</data>
+      <data key="d2">Столяренко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="62079890">
+      <data key="d0">1</data>
+      <data key="d1">Елена</data>
+      <data key="d2">Ускова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="62185671">
+      <data key="d0">2</data>
+      <data key="d1">Рафаил</data>
+      <data key="d2">Шарафутдинов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="62310138">
+      <data key="d0">2</data>
+      <data key="d1">Костя</data>
+      <data key="d2">Мельник</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="62410504">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Витюгова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="62514919">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Зон</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="62547042">
+      <data key="d0">2</data>
+      <data key="d1">Анатолий</data>
+      <data key="d2">Подыман</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="62624567">
+      <data key="d0">2</data>
+      <data key="d1">Глеб</data>
+      <data key="d2">Васильев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="62696887">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="62908278">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Сысоев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="63152232">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Мандрыкина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="63157683">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Кожан</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="63281660">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Матвиенко</data>
+      <data key="d3" />
+    </node>
+    <node id="63289666">
+      <data key="d0">2</data>
+      <data key="d1">Юрий</data>
+      <data key="d2">Якимычев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="63420860">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Лялина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="63471275">
+      <data key="d0">1</data>
+      <data key="d1">Марина</data>
+      <data key="d2">Павлова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="63555545">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Наумов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="64007866">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Луценко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="64265285">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Федоркова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="64331163">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Бельчиков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="64370926">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Дашков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="64372260">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Барашов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="64741131">
+      <data key="d0">1</data>
+      <data key="d1">Софья</data>
+      <data key="d2">Ефимова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="64837017">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Колупаев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="64840345">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Лёшина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="64884746">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Уваров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="65458988">
+      <data key="d0">2</data>
+      <data key="d1">Данил</data>
+      <data key="d2">Чернавский</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="65568184">
+      <data key="d0">1</data>
+      <data key="d1">Ясемин</data>
+      <data key="d2">Топчу</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="65592585">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Пушко</data>
+      <data key="d3" />
+    </node>
+    <node id="65682794">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Акрамов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="65741475">
+      <data key="d0">1</data>
+      <data key="d1">Татьяна</data>
+      <data key="d2">Новикова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="66036770">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Змеев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="66332610">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Коломыцева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="66332829">
+      <data key="d0">1</data>
+      <data key="d1">Мариам</data>
+      <data key="d2">Бикмухаметова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="66363249">
+      <data key="d0">1</data>
+      <data key="d1">Nadia</data>
+      <data key="d2">Ivaschenko</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="66757056">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Злыднева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="66941769">
+      <data key="d0">1</data>
+      <data key="d1">Регина</data>
+      <data key="d2">Ахметшина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="66991396">
+      <data key="d0">1</data>
+      <data key="d1">Яна</data>
+      <data key="d2">Усанова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="67303645">
+      <data key="d0">2</data>
+      <data key="d1">Артем</data>
+      <data key="d2">Яковенко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="67365859">
+      <data key="d0">1</data>
+      <data key="d1">Настя</data>
+      <data key="d2">Гала</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="67525268">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="67554270">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Вотченко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="67618146">
+      <data key="d0">1</data>
+      <data key="d1">Виктория</data>
+      <data key="d2">Позднякова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="67690512">
+      <data key="d0">1</data>
+      <data key="d1">Настя</data>
+      <data key="d2">Козлова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="67820671">
+      <data key="d0">2</data>
+      <data key="d1">Эльдар</data>
+      <data key="d2">Пулатов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="67838489">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Дибров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="67939726">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Белов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="68016384">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Москаленко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="68087617">
+      <data key="d0">2</data>
+      <data key="d1">Виктория</data>
+      <data key="d2">Ландау</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="68090436">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Коржановский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="68098995">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Колегова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="68248505">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Левская</data>
+      <data key="d3" />
+    </node>
+    <node id="68356329">
+      <data key="d0">2</data>
+      <data key="d1">Влад</data>
+      <data key="d2">Давыдов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="68392539">
+      <data key="d0">2</data>
+      <data key="d1">Тимур</data>
+      <data key="d2">Нурхабинов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="68408565">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Коровников</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="68520914">
+      <data key="d0">2</data>
+      <data key="d1">Дима</data>
+      <data key="d2">Ямаев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="68590586">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Шилина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="68609644">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Пензарь</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="68783473">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Чупров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="68936773">
+      <data key="d0">1</data>
+      <data key="d1">Евгений</data>
+      <data key="d2">Мигунов</data>
+      <data key="d3" />
+    </node>
+    <node id="69077264">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Бойченко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="69116766">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Фролова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="69141894">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Строганова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="69253212">
+      <data key="d0">1</data>
+      <data key="d1">Николь</data>
+      <data key="d2">Ульянова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="69279854">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Сенько</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="69333034">
+      <data key="d0">1</data>
+      <data key="d1">Надя</data>
+      <data key="d2">Врублевская</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="69458988">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Вертьянов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="69813002">
+      <data key="d0">2</data>
+      <data key="d1">Данила</data>
+      <data key="d2">Орлов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="70069087">
+      <data key="d0">1</data>
+      <data key="d1">Кристина</data>
+      <data key="d2">Гуменюк</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="70101812">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Веселов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="70115648">
+      <data key="d0">2</data>
+      <data key="d1">Григорий</data>
+      <data key="d2">Савушкин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="70252554">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Кочанникова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="70408624">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Ковалев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="70428037">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Зимин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="70609246">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Мандров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="70787684">
+      <data key="d0">1</data>
+      <data key="d1">Валентина</data>
+      <data key="d2">Шуневич</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="70812881">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Дымаренко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="71021445">
+      <data key="d0">1</data>
+      <data key="d1">Даша</data>
+      <data key="d2">Болгарина</data>
+      <data key="d3" />
+    </node>
+    <node id="71062469">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Милосердов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="71126808">
+      <data key="d0">2</data>
+      <data key="d1">Давид</data>
+      <data key="d2">Клятов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="71195787">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Неменов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="71254507">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Шабалина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="71262515">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Ахременков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="71396783">
+      <data key="d0">2</data>
+      <data key="d1">Alex</data>
+      <data key="d2">Dogin</data>
+      <data key="d3">МФТИ (Физтех)</data>
+    </node>
+    <node id="71560503">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Пылев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="71854044">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Хмелева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="72146609">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Фомина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="72229442">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Степанов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="72308300">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Попов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="72367333">
+      <data key="d0">2</data>
+      <data key="d1">Глеб</data>
+      <data key="d2">Ковыршин</data>
+      <data key="d3" />
+    </node>
+    <node id="72537495">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Рябченко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="72650181">
+      <data key="d0">2</data>
+      <data key="d1">Борис</data>
+      <data key="d2">Бабанов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="72686312">
+      <data key="d0">2</data>
+      <data key="d1">Василий</data>
+      <data key="d2">Колесников</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="72850349">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Федина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="72924434">
+      <data key="d0">2</data>
+      <data key="d1">Ярослав</data>
+      <data key="d2">Романовский</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="73031814">
+      <data key="d0">1</data>
+      <data key="d1">Поля</data>
+      <data key="d2">Васильева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="73607070">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Саляхова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="73716707">
+      <data key="d0">2</data>
+      <data key="d1">Артемий</data>
+      <data key="d2">Попов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="73959370">
+      <data key="d0">2</data>
+      <data key="d1">Глеб</data>
+      <data key="d2">Михалёв</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="74013611">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Ганиев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="74272698">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Цеханович</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="75116365">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Дятлов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="75205143">
+      <data key="d0">2</data>
+      <data key="d1">Дима</data>
+      <data key="d2">Виноградов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="75456608">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Смирнова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="75473708">
+      <data key="d0">1</data>
+      <data key="d1">Дилара</data>
+      <data key="d2">Валеева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="75713086">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Васютина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="75970924">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Бердышев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="76227096">
+      <data key="d0">1</data>
+      <data key="d1">Светлана</data>
+      <data key="d2">Иванова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="76568137">
+      <data key="d0">1</data>
+      <data key="d1">Инесса</data>
+      <data key="d2">Забелина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="76898205">
+      <data key="d0">2</data>
+      <data key="d1">Гена</data>
+      <data key="d2">Кадыров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="77169212">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Стрельчик-Карпов</data>
+      <data key="d3">МФПУ «Синергия» (бывш. МФПА, ММИЭИФП)</data>
+    </node>
+    <node id="77338108">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Хренов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="77376106">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="77380958">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Спиридонов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="77452564">
+      <data key="d0">2</data>
+      <data key="d1">Валид</data>
+      <data key="d2">Аль-Зоаби</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="77616962">
+      <data key="d0">1</data>
+      <data key="d1">Софья</data>
+      <data key="d2">Сенотрусова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="77908009">
+      <data key="d0">2</data>
+      <data key="d1">Эмиль</data>
+      <data key="d2">Шабаев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="78430762">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Голубев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="78629181">
+      <data key="d0">2</data>
+      <data key="d1">Данило</data>
+      <data key="d2">Шчепанович</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="78823102">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Добровольская</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="78883856">
+      <data key="d0">1</data>
+      <data key="d1">Алина</data>
+      <data key="d2">Кирсанкина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="78955351">
+      <data key="d0">1</data>
+      <data key="d1">Алина</data>
+      <data key="d2">Кочигина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="79080176">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Левакова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="79114378">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Первушин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="79210079">
+      <data key="d0">2</data>
+      <data key="d1">Дамир</data>
+      <data key="d2">Гасымов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="79360187">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Шишкин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="79397875">
+      <data key="d0">1</data>
+      <data key="d1">Алиме</data>
+      <data key="d2">Мамутова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="79419892">
+      <data key="d0">2</data>
+      <data key="d1">Тим</data>
+      <data key="d2">Nemsov</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="79491348">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Нургалиева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="79791602">
+      <data key="d0">2</data>
+      <data key="d1">Николай</data>
+      <data key="d2">Иерусалимский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="80127557">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Нагорная</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="80153596">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Доронин</data>
+      <data key="d3" />
+    </node>
+    <node id="80285420">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="80295126">
+      <data key="d0">2</data>
+      <data key="d1">Алик</data>
+      <data key="d2">Зиганшин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="80488212">
+      <data key="d0">2</data>
+      <data key="d1">Глеб</data>
+      <data key="d2">Березнев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="80835820">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Средняков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="80915757">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Шелест</data>
+      <data key="d3" />
+    </node>
+    <node id="80929200">
+      <data key="d0">1</data>
+      <data key="d1">Софи</data>
+      <data key="d2">Манько</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="81163107">
+      <data key="d0">2</data>
+      <data key="d1">Василий</data>
+      <data key="d2">Боков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="81384344">
+      <data key="d0">1</data>
+      <data key="d1">Арина</data>
+      <data key="d2">Покровская</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="81441956">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="81446263">
+      <data key="d0">2</data>
+      <data key="d1">Дима</data>
+      <data key="d2">Пономаренко</data>
+      <data key="d3">МФТИ (Физтех)</data>
+    </node>
+    <node id="81515939">
+      <data key="d0">1</data>
+      <data key="d1">Тинна</data>
+      <data key="d2">Короткова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="81671225">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Долматов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="81689263">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Тулупов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="81753274">
+      <data key="d0">1</data>
+      <data key="d1">Луиза</data>
+      <data key="d2">Низамеева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="81822581">
+      <data key="d0">2</data>
+      <data key="d1">Степан</data>
+      <data key="d2">Назаров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="81825349">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Нектаринова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="81871371">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Коренкова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="81975273">
+      <data key="d0">2</data>
+      <data key="d1">Рустам</data>
+      <data key="d2">Кубанов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="82311030">
+      <data key="d0">1</data>
+      <data key="d1">Ирина</data>
+      <data key="d2">Малышева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="82325864">
+      <data key="d0">2</data>
+      <data key="d1">Эмиль</data>
+      <data key="d2">Кафматов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="82593626">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Васильев</data>
+      <data key="d3" />
+    </node>
+    <node id="82594831">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Бураков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="82760399">
+      <data key="d0">2</data>
+      <data key="d1">Артем</data>
+      <data key="d2">Шулика</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="82891428">
+      <data key="d0">1</data>
+      <data key="d1">Влада</data>
+      <data key="d2">Жернова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="83145160">
+      <data key="d0">2</data>
+      <data key="d1">Тимур</data>
+      <data key="d2">Суханов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="83322903">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Федун</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="83421637">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Сидлер</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="83569418">
+      <data key="d0">1</data>
+      <data key="d1">Света</data>
+      <data key="d2">Афанасьева</data>
+      <data key="d3" />
+    </node>
+    <node id="83654084">
+      <data key="d0">2</data>
+      <data key="d1">Лёха</data>
+      <data key="d2">Семиглазов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="83760605">
+      <data key="d0">1</data>
+      <data key="d1">Ирина</data>
+      <data key="d2">Каданова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="83770636">
+      <data key="d0">2</data>
+      <data key="d1">Миша</data>
+      <data key="d2">Кулёв</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="84113094">
+      <data key="d0">2</data>
+      <data key="d1">Тимур</data>
+      <data key="d2">Инан</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="84141213">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Разумов</data>
+      <data key="d3" />
+    </node>
+    <node id="84143893">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Кастелин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="84174008">
+      <data key="d0">1</data>
+      <data key="d1">Наталия</data>
+      <data key="d2">Арефьева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="84256645">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Кляхандлер</data>
+      <data key="d3" />
+    </node>
+    <node id="84561577">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Травкин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="84675838">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Редчиц</data>
+      <data key="d3" />
+    </node>
+    <node id="84783539">
+      <data key="d0">1</data>
+      <data key="d1">Галина</data>
+      <data key="d2">Свидельская</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="84787593">
+      <data key="d0">2</data>
+      <data key="d1">Вагиф</data>
+      <data key="d2">Тагиев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="85017335">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Никифорова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="85125914">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Драгун</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="85232275">
+      <data key="d0">2</data>
+      <data key="d1">Василий</data>
+      <data key="d2">Федоров</data>
+      <data key="d3">МИЭТ</data>
+    </node>
+    <node id="85296771">
+      <data key="d0">1</data>
+      <data key="d1">Ирина</data>
+      <data key="d2">Бухтеева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="85376823">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Титова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="85436841">
+      <data key="d0">2</data>
+      <data key="d1">Dr.</data>
+      <data key="d2">Leprikon</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="85467785">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Тиняков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="86328606">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Сомов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="86350485">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Первакова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="86410680">
+      <data key="d0">1</data>
+      <data key="d1">Валерия</data>
+      <data key="d2">Плошкина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="86889396">
+      <data key="d0">2</data>
+      <data key="d1">Артур</data>
+      <data key="d2">Авакян</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="87016718">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Кречетов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="87065968">
+      <data key="d0">1</data>
+      <data key="d1">Алиса</data>
+      <data key="d2">Калачёва</data>
+      <data key="d3">МФТИ (Физтех)</data>
+    </node>
+    <node id="87785475">
+      <data key="d0">1</data>
+      <data key="d1">Арина</data>
+      <data key="d2">Рябоконь</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="87821215">
+      <data key="d0">2</data>
+      <data key="d1">Марат</data>
+      <data key="d2">Закиров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="88183892">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Зорин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="88259304">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Чугунова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="88307874">
+      <data key="d0">2</data>
+      <data key="d1">Роберт</data>
+      <data key="d2">Мустаев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="88362753">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Прокудин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="88547435">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Бухтеев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="88579879">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Куратцев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="88700262">
+      <data key="d0">2</data>
+      <data key="d1">Валентин</data>
+      <data key="d2">Перевышин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="88747291">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Снарская</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="88935552">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Швайчук</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="89029521">
+      <data key="d0">2</data>
+      <data key="d1">Родион</data>
+      <data key="d2">Трегубов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="89148349">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Скипидаров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="89565786">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Алексеева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="89631890">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Смирнов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="89920355">
+      <data key="d0">1</data>
+      <data key="d1">Юнна</data>
+      <data key="d2">Петрусенко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="90118756">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Николаева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="90477480">
+      <data key="d0">1</data>
+      <data key="d1">Marisha</data>
+      <data key="d2">Donets</data>
+      <data key="d3">Stockholms Universitet (SU)</data>
+    </node>
+    <node id="90643305">
+      <data key="d0">1</data>
+      <data key="d1">Ангелина</data>
+      <data key="d2">Тишина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="90743374">
+      <data key="d0">2</data>
+      <data key="d1">Демид</data>
+      <data key="d2">Жаренов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="90775867">
+      <data key="d0">2</data>
+      <data key="d1">Данил</data>
+      <data key="d2">Нестеров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="90857800">
+      <data key="d0">2</data>
+      <data key="d1">Тимур</data>
+      <data key="d2">Рябов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="91085244">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Кожемяков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="91113829">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Кудряшов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="91647994">
+      <data key="d0">2</data>
+      <data key="d1">Vlad</data>
+      <data key="d2">Topolev</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="91826085">
+      <data key="d0">2</data>
+      <data key="d1">Фёдор</data>
+      <data key="d2">Спичак</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="91960740">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Волков</data>
+      <data key="d3" />
+    </node>
+    <node id="92060416">
+      <data key="d0">2</data>
+      <data key="d1">Матвей</data>
+      <data key="d2">Шелухан</data>
+      <data key="d3" />
+    </node>
+    <node id="92185729">
+      <data key="d0">2</data>
+      <data key="d1">Евгений</data>
+      <data key="d2">Кашуркин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="92476568">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Казаркин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="92514098">
+      <data key="d0">2</data>
+      <data key="d1">Роберт</data>
+      <data key="d2">Батталов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="92530320">
+      <data key="d0">2</data>
+      <data key="d1">Олег</data>
+      <data key="d2">Шинкарев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="92613144">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Михайлов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="92644524">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Маркин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="92783979">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Гусев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="93021382">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Плодухин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="93591017">
+      <data key="d0">1</data>
+      <data key="d1">Галина</data>
+      <data key="d2">Охрименко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="93594132">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Хохлова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="94434704">
+      <data key="d0">1</data>
+      <data key="d1">Алина</data>
+      <data key="d2">Скорик</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="94798569">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Фадеев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="95104906">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Хамидуллин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="95317503">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Антонов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="95371833">
+      <data key="d0">2</data>
+      <data key="d1">Nurgeldi</data>
+      <data key="d2">Sanabay</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="95461964">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Федоренко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="95521582">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Гейдорф</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="95531519">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Петров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="95635282">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Килина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="95839170">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Ботвин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="95975522">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Кирьянов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="95985943">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Семенова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="96126473">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Лебедь</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="96157356">
+      <data key="d0">2</data>
+      <data key="d1">Саша</data>
+      <data key="d2">Оспенников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="96216896">
+      <data key="d0">2</data>
+      <data key="d1">Даурен</data>
+      <data key="d2">Казтуганов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="96241665">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Путилин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="96285513">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Жидовцев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="96323691">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Кузнецов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="96389668">
+      <data key="d0">1</data>
+      <data key="d1">Olga</data>
+      <data key="d2">Tyshova</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="96432758">
+      <data key="d0">2</data>
+      <data key="d1">Витя</data>
+      <data key="d2">Олексюк</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="96564398">
+      <data key="d0">2</data>
+      <data key="d1">Костя</data>
+      <data key="d2">Совит</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="96900319">
+      <data key="d0">1</data>
+      <data key="d1">Legasso</data>
+      <data key="d2">Lehaseer</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="97007449">
+      <data key="d0">1</data>
+      <data key="d1">Ольга</data>
+      <data key="d2">Лычагина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="97078126">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Винарский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="97084659">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Белышева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="97102567">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Муратов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="97303173">
+      <data key="d0">1</data>
+      <data key="d1">Настя</data>
+      <data key="d2">Кривенцова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="97414408">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Андрианова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="97428234">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Коблов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="97582287">
+      <data key="d0">1</data>
+      <data key="d1">Даша</data>
+      <data key="d2">Кессель</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="97645944">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Залозная</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="97712098">
+      <data key="d0">2</data>
+      <data key="d1">Константин</data>
+      <data key="d2">Лосев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="98254355">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Обласов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="98456041">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="98672913">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Мурашов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="99041581">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Таркаева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="99078814">
+      <data key="d0">2</data>
+      <data key="d1">Давид</data>
+      <data key="d2">Мдзевашвили</data>
+      <data key="d3" />
+    </node>
+    <node id="99442667">
+      <data key="d0">1</data>
+      <data key="d1">Таня</data>
+      <data key="d2">Неровная</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="99474077">
+      <data key="d0">1</data>
+      <data key="d1">Дария</data>
+      <data key="d2">Пешнина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="99530060">
+      <data key="d0">2</data>
+      <data key="d1">Миша</data>
+      <data key="d2">Чиллинский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="99647723">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Бурлак</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="99693208">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Воробьева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="99844319">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Горбатов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="100165530">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Булыгин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="100170125">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Пустовалов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="100573179">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Гораджанов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="100621055">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Дьяконов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="100741472">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="100801028">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Ромашкина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="100934863">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Кречетов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="101187318">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="101421471">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Кириленко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="101430335">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Герасимов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="101466026">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Веткин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="101491088">
+      <data key="d0">2</data>
+      <data key="d1">Николай</data>
+      <data key="d2">Клыков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="101610136">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Печальный</data>
+      <data key="d3">НИИ СП им. Н. В. Склифосовского</data>
+    </node>
+    <node id="101868794">
+      <data key="d0">2</data>
+      <data key="d1">George</data>
+      <data key="d2">Votolevsky</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="101910446">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Мовсисян</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="101910900">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Трофимов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="101960664">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Андреев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="102112357">
+      <data key="d0">1</data>
+      <data key="d1">Лера</data>
+      <data key="d2">Рымарь</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="102444260">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Мергурьев</data>
+      <data key="d3">МГТУ им. Н. Э. Баумана</data>
+    </node>
+    <node id="102807343">
+      <data key="d0">1</data>
+      <data key="d1">Настя</data>
+      <data key="d2">Корнилова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="102906357">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Ермилов</data>
+      <data key="d3">МГТУ им. Н. Э. Баумана</data>
+    </node>
+    <node id="102930495">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="103164791">
+      <data key="d0">1</data>
+      <data key="d1">Соня</data>
+      <data key="d2">Панюшкина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="103349338">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Чирич</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="103857162">
+      <data key="d0">2</data>
+      <data key="d1">Григорий</data>
+      <data key="d2">Варганов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="103950344">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Рохлова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="104019641">
+      <data key="d0">1</data>
+      <data key="d1">Наталья</data>
+      <data key="d2">Иванова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="104098854">
+      <data key="d0">2</data>
+      <data key="d1">Влад</data>
+      <data key="d2">Готовцев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="104193436">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Жуляева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="104242853">
+      <data key="d0">2</data>
+      <data key="d1">Николай</data>
+      <data key="d2">Корякин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="104329536">
+      <data key="d0">1</data>
+      <data key="d1">Ирина</data>
+      <data key="d2">Федотова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="104471313">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Морозов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="104507788">
+      <data key="d0">1</data>
+      <data key="d1">Даша</data>
+      <data key="d2">Качалова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="104513253">
+      <data key="d0">2</data>
+      <data key="d1">Григорий</data>
+      <data key="d2">Кулагин</data>
+      <data key="d3">Университет ИТМО</data>
+    </node>
+    <node id="104914062">
+      <data key="d0">2</data>
+      <data key="d1">Евгений</data>
+      <data key="d2">Бокарев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="104919853">
+      <data key="d0">2</data>
+      <data key="d1">Данила</data>
+      <data key="d2">Барсук</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="104997710">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Тюленев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="105167128">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Уманский</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="105364427">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Сидоров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="105585208">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Сковородько</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="106300663">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Тихонов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="106472457">
+      <data key="d0">2</data>
+      <data key="d1">Мунир</data>
+      <data key="d2">Куватов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="106563285">
+      <data key="d0">1</data>
+      <data key="d1">Луиза</data>
+      <data key="d2">Штерн</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="106635704">
+      <data key="d0">2</data>
+      <data key="d1">Артем</data>
+      <data key="d2">Дудин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="106635829">
+      <data key="d0">2</data>
+      <data key="d1">Лёш</data>
+      <data key="d2">Ка</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="106955928">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Гамова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="107000302">
+      <data key="d0">1</data>
+      <data key="d1">Валерия</data>
+      <data key="d2">Скибина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="107165746">
+      <data key="d0">1</data>
+      <data key="d1">Лера</data>
+      <data key="d2">Колмогорова</data>
+      <data key="d3" />
+    </node>
+    <node id="107261627">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Милицина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="107289281">
+      <data key="d0">1</data>
+      <data key="d1">Христина</data>
+      <data key="d2">Степанова</data>
+      <data key="d3" />
+    </node>
+    <node id="107419128">
+      <data key="d0">2</data>
+      <data key="d1">Данил</data>
+      <data key="d2">Лазарев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="107437613">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Бедда</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="107727618">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Яковленко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="107747199">
+      <data key="d0">2</data>
+      <data key="d1">Лев</data>
+      <data key="d2">Киреенко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="107844938">
+      <data key="d0">2</data>
+      <data key="d1">Юра</data>
+      <data key="d2">Литвиненко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="107981461">
+      <data key="d0">1</data>
+      <data key="d1">Даша</data>
+      <data key="d2">Панфилова</data>
+      <data key="d3" />
+    </node>
+    <node id="108408791">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Крючкова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="108675956">
+      <data key="d0">2</data>
+      <data key="d1">Наран</data>
+      <data key="d2">Манкаев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="108757691">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Крылов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="108810938">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Михеева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="108842114">
+      <data key="d0">2</data>
+      <data key="d1">Виктор</data>
+      <data key="d2">Красников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="108842959">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Подборский</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="108977449">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Краснов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="108994131">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Агалакова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="109151124">
+      <data key="d0">1</data>
+      <data key="d1">Вероника</data>
+      <data key="d2">Ратникова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="109552358">
+      <data key="d0">2</data>
+      <data key="d1">Dimasten</data>
+      <data key="d2">Melkonyan</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="109576268">
+      <data key="d0">2</data>
+      <data key="d1">Велиор</data>
+      <data key="d2">Георгин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="109609524">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Кашкаров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="109711118">
+      <data key="d0">2</data>
+      <data key="d1">Григорий</data>
+      <data key="d2">Корякин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="109846998">
+      <data key="d0">2</data>
+      <data key="d1">Федя</data>
+      <data key="d2">Нартов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="109860222">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Куклева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="110038762">
+      <data key="d0">2</data>
+      <data key="d1">Коля</data>
+      <data key="d2">Полушкин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="110043243">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Жучков</data>
+      <data key="d3" />
+    </node>
+    <node id="110262728">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Яковенко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="110336036">
+      <data key="d0">1</data>
+      <data key="d1">Виктория</data>
+      <data key="d2">Бибикова</data>
+      <data key="d3" />
+    </node>
+    <node id="110351918">
+      <data key="d0">1</data>
+      <data key="d1">Галя</data>
+      <data key="d2">Рязанова</data>
+      <data key="d3" />
+    </node>
+    <node id="110554789">
+      <data key="d0">1</data>
+      <data key="d1">Людмила</data>
+      <data key="d2">Петрашко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="110558579">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Доценко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="110717613">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Меньшиков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="110902365">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Руденко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="110986275">
+      <data key="d0">1</data>
+      <data key="d1">Леся</data>
+      <data key="d2">Валеева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="111003897">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="111040743">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="111077152">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Сажин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="111239948">
+      <data key="d0">1</data>
+      <data key="d1">Ekaterina</data>
+      <data key="d2">Veselova</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="111272055">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Карпов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="111307450">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Поспелов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="111600868">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Костюченко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="111662115">
+      <data key="d0">1</data>
+      <data key="d1">Гузаль</data>
+      <data key="d2">Шукурлаева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="111666354">
+      <data key="d0">2</data>
+      <data key="d1">Эльвир</data>
+      <data key="d2">Каримов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="111884745">
+      <data key="d0">2</data>
+      <data key="d1">Даня</data>
+      <data key="d2">Боронин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="111912608">
+      <data key="d0">1</data>
+      <data key="d1">Lukomskaya</data>
+      <data key="d2">Maria</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="112945692">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Мезенцев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="112971239">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Малашкевич</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="113215379">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Путилова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="113725468">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Мухина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="114127771">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Киселев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="114332163">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Головко</data>
+      <data key="d3" />
+    </node>
+    <node id="114503601">
+      <data key="d0">1</data>
+      <data key="d1">Элина</data>
+      <data key="d2">Мухаметханова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="114515621">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Апёнкина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="114796010">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Смирнов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="114981364">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Алешин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="115035405">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Светлакова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="115262983">
+      <data key="d0">2</data>
+      <data key="d1">Grisha</data>
+      <data key="d2">Merzlikin</data>
+      <data key="d3" />
+    </node>
+    <node id="115591332">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Кукуяшный</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="115738828">
+      <data key="d0">2</data>
+      <data key="d1">Мурат</data>
+      <data key="d2">Муратов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="115969332">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Михалёв</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="116087054">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Грицевич</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="116338088">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Серебряков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="116490326">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Маликовский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="116511394">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Карпачёв</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="116569067">
+      <data key="d0">2</data>
+      <data key="d1">Дален</data>
+      <data key="d2">Майнерман</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="116993163">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Шаталина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="117183441">
+      <data key="d0">1</data>
+      <data key="d1">Марина</data>
+      <data key="d2">Сороколетова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="117461406">
+      <data key="d0">2</data>
+      <data key="d1">Филипп</data>
+      <data key="d2">Крымский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="117694372">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Тарбаев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="117764099">
+      <data key="d0">2</data>
+      <data key="d1">Артем</data>
+      <data key="d2">Парфенов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="118206532">
+      <data key="d0">2</data>
+      <data key="d1">Григорий</data>
+      <data key="d2">Колоколов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="118352186">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Кочергин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="118576340">
+      <data key="d0">2</data>
+      <data key="d1">Саша</data>
+      <data key="d2">Решетняк</data>
+      <data key="d3" />
+    </node>
+    <node id="118603265">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Кузнецова</data>
+      <data key="d3" />
+    </node>
+    <node id="118605135">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Коварский</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="118650425">
+      <data key="d0">1</data>
+      <data key="d1">Поля</data>
+      <data key="d2">Колесникова</data>
+      <data key="d3" />
+    </node>
+    <node id="118796722">
+      <data key="d0">1</data>
+      <data key="d1">Евгения</data>
+      <data key="d2">Лазарева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="118973521">
+      <data key="d0">2</data>
+      <data key="d1">Василий</data>
+      <data key="d2">Филин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="119287922">
+      <data key="d0">2</data>
+      <data key="d1">Саша</data>
+      <data key="d2">Вергун</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="119433386">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Ташкеев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="119467377">
+      <data key="d0">1</data>
+      <data key="d1">Арина</data>
+      <data key="d2">Комягина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="119473427">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Красман</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="119636555">
+      <data key="d0">1</data>
+      <data key="d1">Люба</data>
+      <data key="d2">Котельникова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="119989169">
+      <data key="d0">2</data>
+      <data key="d1">Влад</data>
+      <data key="d2">Глазьев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="120299635">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Тарков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="120299815">
+      <data key="d0">2</data>
+      <data key="d1">Валерий</data>
+      <data key="d2">Захаров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="120421707">
+      <data key="d0">2</data>
+      <data key="d1">Тимур</data>
+      <data key="d2">Бакиев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="120431154">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Кошкин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="120771695">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Кучеренко</data>
+      <data key="d3" />
+    </node>
+    <node id="121062910">
+      <data key="d0">2</data>
+      <data key="d1">Артем</data>
+      <data key="d2">Гордеев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="121076104">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Ниценко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="121172264">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Агеева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="121180474">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Бескудрова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="121296478">
+      <data key="d0">2</data>
+      <data key="d1">Стивен</data>
+      <data key="d2">Руденко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="121425587">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Денисов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="121535667">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Журавлев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="121621537">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Иванов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="121743103">
+      <data key="d0">1</data>
+      <data key="d1">Татьяна</data>
+      <data key="d2">Стенина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="122057149">
+      <data key="d0">2</data>
+      <data key="d1">Матвей</data>
+      <data key="d2">Воробьев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="122311578">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Зайцев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="122346859">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Горбунова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="122526564">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Домников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="123092362">
+      <data key="d0">1</data>
+      <data key="d1">Женя</data>
+      <data key="d2">Селезнева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="123478103">
+      <data key="d0">2</data>
+      <data key="d1">Савелий</data>
+      <data key="d2">Салтыков</data>
+      <data key="d3" />
+    </node>
+    <node id="123526876">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Голубев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="123537823">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="123543767">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Веселов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="123775404">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Добрыгин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="124014425">
+      <data key="d0">2</data>
+      <data key="d1">Георгий</data>
+      <data key="d2">Дебцов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="124210753">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Мусин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="124246194">
+      <data key="d0">1</data>
+      <data key="d1">Виктория</data>
+      <data key="d2">Борзых</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="124569479">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Решов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="125471047">
+      <data key="d0">1</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="125654341">
+      <data key="d0">2</data>
+      <data key="d1">Айбулат</data>
+      <data key="d2">Мусин</data>
+      <data key="d3" />
+    </node>
+    <node id="125738986">
+      <data key="d0">2</data>
+      <data key="d1">Василий</data>
+      <data key="d2">Субботин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="125830518">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Гуськов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="126140076">
+      <data key="d0">2</data>
+      <data key="d1">Клим</data>
+      <data key="d2">Велиев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="126689139">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Кузин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="126889142">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Чащин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="127093301">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Ленивкин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="127482093">
+      <data key="d0">2</data>
+      <data key="d1">Артур</data>
+      <data key="d2">Шатов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="127686526">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Иванова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="127790714">
+      <data key="d0">2</data>
+      <data key="d1">Олег</data>
+      <data key="d2">Маслов</data>
+      <data key="d3" />
+    </node>
+    <node id="127849597">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Гуськов</data>
+      <data key="d3" />
+    </node>
+    <node id="127925304">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Дюльдин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="128268173">
+      <data key="d0">2</data>
+      <data key="d1">Тима</data>
+      <data key="d2">Григорин-Рябов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="128530262">
+      <data key="d0">1</data>
+      <data key="d1">Татьяна</data>
+      <data key="d2">Лебедева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="128790434">
+      <data key="d0">1</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Макрушин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="128848147">
+      <data key="d0">2</data>
+      <data key="d1">Макс</data>
+      <data key="d2">Филимончук</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="128943086">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Долбня</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="129350952">
+      <data key="d0">2</data>
+      <data key="d1">Славян</data>
+      <data key="d2">Скорев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="129445945">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Сивакова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="130509705">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Чеглакова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="131419540">
+      <data key="d0">1</data>
+      <data key="d1">Uliana</data>
+      <data key="d2">Andronova</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="131516669">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Макеева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="131528205">
+      <data key="d0">2</data>
+      <data key="d1">Женя</data>
+      <data key="d2">Аверочкин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="131629455">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Дороганов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="131726322">
+      <data key="d0">1</data>
+      <data key="d1">Алиса</data>
+      <data key="d2">Письменная</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="131771274">
+      <data key="d0">2</data>
+      <data key="d1">Ринат</data>
+      <data key="d2">Кагиров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="131786416">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Кожухов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="131818680">
+      <data key="d0">2</data>
+      <data key="d1">Степан</data>
+      <data key="d2">Высотин</data>
+      <data key="d3" />
+    </node>
+    <node id="131931637">
+      <data key="d0">2</data>
+      <data key="d1">DELETED</data>
+      <data key="d2" />
+      <data key="d3">-1</data>
+    </node>
+    <node id="131932812">
+      <data key="d0">2</data>
+      <data key="d1">Miu</data>
+      <data key="d2">Chu chi</data>
+      <data key="d3" />
+    </node>
+    <node id="131956807">
+      <data key="d0">2</data>
+      <data key="d1">Саша</data>
+      <data key="d2">Иванов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="131959111">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Белянинов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="131976937">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Войтова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="132230640">
+      <data key="d0">1</data>
+      <data key="d1">Ляйсан</data>
+      <data key="d2">Петрова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="132527160">
+      <data key="d0">1</data>
+      <data key="d1">Дина</data>
+      <data key="d2">Сулейманова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="132542693">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Федоров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="132744345">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Поморов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="132800044">
+      <data key="d0">2</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Тихонова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="132837792">
+      <data key="d0">2</data>
+      <data key="d1">Ратмир</data>
+      <data key="d2">Газизов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="132866500">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Валентинович</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="133571877">
+      <data key="d0">2</data>
+      <data key="d1">Глеб</data>
+      <data key="d2">Сливин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="133632286">
+      <data key="d0">2</data>
+      <data key="d1">Виктор</data>
+      <data key="d2">Воробьев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="133657480">
+      <data key="d0">2</data>
+      <data key="d1">Ярослав</data>
+      <data key="d2">Гордиенко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="133665637">
+      <data key="d0">1</data>
+      <data key="d1">Алина</data>
+      <data key="d2">Федорова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="133792095">
+      <data key="d0">2</data>
+      <data key="d1">Георгий</data>
+      <data key="d2">Донченко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="133803640">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Васильев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="133837390">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Маланин</data>
+      <data key="d3" />
+    </node>
+    <node id="133881355">
+      <data key="d0">2</data>
+      <data key="d1">Леонид</data>
+      <data key="d2">Лейтес</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="133902861">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Макарова</data>
+      <data key="d3">Salam University</data>
+    </node>
+    <node id="134092495">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Муковнин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="134124974">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Бурдин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="134146275">
+      <data key="d0">2</data>
+      <data key="d1">Дамир</data>
+      <data key="d2">Сюняев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="134182972">
+      <data key="d0">2</data>
+      <data key="d1">Степан</data>
+      <data key="d2">Дурманов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="134324021">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Зворыкин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="134528706">
+      <data key="d0">2</data>
+      <data key="d1">Лёша</data>
+      <data key="d2">Бурбасов</data>
+      <data key="d3" />
+    </node>
+    <node id="134536744">
+      <data key="d0">2</data>
+      <data key="d1">Данил</data>
+      <data key="d2">Груздов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="134539795">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Тарасов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="134726192">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Морозов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="134859053">
+      <data key="d0">1</data>
+      <data key="d1">Кристина</data>
+      <data key="d2">Базылева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="134897361">
+      <data key="d0">2</data>
+      <data key="d1">Константин</data>
+      <data key="d2">Антипин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="135051078">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Суконников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135068224">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Степанова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135166291">
+      <data key="d0">2</data>
+      <data key="d1">Гоша</data>
+      <data key="d2">Сорокин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135197382">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Петрушко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135387791">
+      <data key="d0">2</data>
+      <data key="d1">Глеб</data>
+      <data key="d2">Царь</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135433460">
+      <data key="d0">2</data>
+      <data key="d1">Вячеслав</data>
+      <data key="d2">Гальцев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135515039">
+      <data key="d0">2</data>
+      <data key="d1">Григорий</data>
+      <data key="d2">Останин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="135531896">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Казначеев</data>
+      <data key="d3" />
+    </node>
+    <node id="135542982">
+      <data key="d0">2</data>
+      <data key="d1">Тима</data>
+      <data key="d2">Гусев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="135595643">
+      <data key="d0">2</data>
+      <data key="d1">Клим</data>
+      <data key="d2">Уваров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135632098">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Воробьева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="135646213">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Давыдов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135712153">
+      <data key="d0">2</data>
+      <data key="d1">Вадим</data>
+      <data key="d2">Ташбеков</data>
+      <data key="d3" />
+    </node>
+    <node id="135760639">
+      <data key="d0">1</data>
+      <data key="d1">Даня</data>
+      <data key="d2">Абеядира</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135774163">
+      <data key="d0">2</data>
+      <data key="d1">Влад</data>
+      <data key="d2">Коноплицкий</data>
+      <data key="d3" />
+    </node>
+    <node id="135776598">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Дубижанский</data>
+      <data key="d3" />
+    </node>
+    <node id="135803202">
+      <data key="d0">2</data>
+      <data key="d1">Роман</data>
+      <data key="d2">Шкареда</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="135833304">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Прохоров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="135880865">
+      <data key="d0">2</data>
+      <data key="d1">Вадим</data>
+      <data key="d2">Яговкин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="135883566">
+      <data key="d0">1</data>
+      <data key="d1">Софья</data>
+      <data key="d2">Коновалова</data>
+      <data key="d3">МПГУ (бывш. МГПИ им. Ленина)</data>
+    </node>
+    <node id="135904079">
+      <data key="d0">1</data>
+      <data key="d1">Алёночка</data>
+      <data key="d2">Иванова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="136031831">
+      <data key="d0">1</data>
+      <data key="d1">Лиза</data>
+      <data key="d2">Березовская</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="136152038">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Гейнц</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="136175506">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Трофанюк</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="136423061">
+      <data key="d0">2</data>
+      <data key="d1">Дмитрий</data>
+      <data key="d2">Булатов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="136801188">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Васютин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137066453">
+      <data key="d0">2</data>
+      <data key="d1">Арташес</data>
+      <data key="d2">Чинарьян</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137098173">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Незнанов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="137207914">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Чернецкий</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="137279013">
+      <data key="d0">2</data>
+      <data key="d1">Артем</data>
+      <data key="d2">Мутин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137344140">
+      <data key="d0">2</data>
+      <data key="d1">Дима</data>
+      <data key="d2">Петрунин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="137384873">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Баранова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137411632">
+      <data key="d0">2</data>
+      <data key="d1">Леонид</data>
+      <data key="d2">Серегин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137583128">
+      <data key="d0">1</data>
+      <data key="d1">Алёна</data>
+      <data key="d2">Пуханова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137584238">
+      <data key="d0">1</data>
+      <data key="d1">Маша</data>
+      <data key="d2">Коваленко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="137655418">
+      <data key="d0">2</data>
+      <data key="d1">Басанг</data>
+      <data key="d2">Бедяев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137770073">
+      <data key="d0">2</data>
+      <data key="d1">Григорий</data>
+      <data key="d2">Агафонов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137848725">
+      <data key="d0">1</data>
+      <data key="d1">Anastasiya</data>
+      <data key="d2">Kurganskaya</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137879593">
+      <data key="d0">2</data>
+      <data key="d1">Тимофей</data>
+      <data key="d2">Советников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="137894843">
+      <data key="d0">1</data>
+      <data key="d1">Надежда</data>
+      <data key="d2">Великороссова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="138014661">
+      <data key="d0">2</data>
+      <data key="d1">Pavel</data>
+      <data key="d2">Kudryavcev</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="138022721">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Авилкин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="138217120">
+      <data key="d0">1</data>
+      <data key="d1">Александра</data>
+      <data key="d2">Марьина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="138317429">
+      <data key="d0">1</data>
+      <data key="d1">Юлия</data>
+      <data key="d2">Языкова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="138548258">
+      <data key="d0">2</data>
+      <data key="d1">Рёмер</data>
+      <data key="d2">Оле йенсен</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="138562916">
+      <data key="d0">1</data>
+      <data key="d1">Varvara</data>
+      <data key="d2">Vasilevskaya</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="138590880">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Зубехин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="138724802">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Нараткина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="138756395">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Путинцев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="138757739">
+      <data key="d0">2</data>
+      <data key="d1">Георгий</data>
+      <data key="d2">Никишёв</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="138796874">
+      <data key="d0">2</data>
+      <data key="d1">Владимир</data>
+      <data key="d2">Супонин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="138825027">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Клушин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="139130262">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Зимнякова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="139145301">
+      <data key="d0">2</data>
+      <data key="d1">Влад</data>
+      <data key="d2">Власов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="139352997">
+      <data key="d0">1</data>
+      <data key="d1">Екатерина</data>
+      <data key="d2">Сапронова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="139399153">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Головко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="139418527">
+      <data key="d0">2</data>
+      <data key="d1">Кирилл</data>
+      <data key="d2">Чернов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="139425263">
+      <data key="d0">1</data>
+      <data key="d1">Дарина</data>
+      <data key="d2">Малкова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="139566830">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Сендюк</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="139599479">
+      <data key="d0">1</data>
+      <data key="d1">Карина</data>
+      <data key="d2">Рахимчанова</data>
+      <data key="d3" />
+    </node>
+    <node id="139600424">
+      <data key="d0">2</data>
+      <data key="d1">Платон</data>
+      <data key="d2">Шишков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="139672183">
+      <data key="d0">2</data>
+      <data key="d1">Василий</data>
+      <data key="d2">Озорнин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="139764954">
+      <data key="d0">2</data>
+      <data key="d1">Daniil</data>
+      <data key="d2">Davidov</data>
+      <data key="d3" />
+    </node>
+    <node id="139829013">
+      <data key="d0">2</data>
+      <data key="d1">Георгий</data>
+      <data key="d2">Шишкан</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="140163569">
+      <data key="d0">2</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Токарь</data>
+      <data key="d3" />
+    </node>
+    <node id="140166905">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Прокопив</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="140424505">
+      <data key="d0">2</data>
+      <data key="d1">Филипп</data>
+      <data key="d2">Костин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="140520912">
+      <data key="d0">2</data>
+      <data key="d1">Pasha</data>
+      <data key="d2">Shustov</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="140584471">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Гутман</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="141115181">
+      <data key="d0">1</data>
+      <data key="d1">Анастасия</data>
+      <data key="d2">Тычинина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="141295558">
+      <data key="d0">2</data>
+      <data key="d1">Лев</data>
+      <data key="d2">Орефков</data>
+      <data key="d3" />
+    </node>
+    <node id="141315955">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Митрофанова</data>
+      <data key="d3" />
+    </node>
+    <node id="141488333">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Ганцева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="141685887">
+      <data key="d0">1</data>
+      <data key="d1">Мария</data>
+      <data key="d2">Пашенцева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="141719376">
+      <data key="d0">2</data>
+      <data key="d1">Влад</data>
+      <data key="d2">Ивантаев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="141907298">
+      <data key="d0">1</data>
+      <data key="d1">Лена</data>
+      <data key="d2">Пашенцева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="141990891">
+      <data key="d0">2</data>
+      <data key="d1">Коля</data>
+      <data key="d2">Анисимов</data>
+      <data key="d3" />
+    </node>
+    <node id="142073657">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Ерохина</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="142130711">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Захаров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="142157817">
+      <data key="d0">1</data>
+      <data key="d1">Елена</data>
+      <data key="d2">Майер</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="142343712">
+      <data key="d0">1</data>
+      <data key="d1">Елизавета</data>
+      <data key="d2">Соколова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="142579935">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Кудряшов</data>
+      <data key="d3" />
+    </node>
+    <node id="142862557">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Старостин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="143225221">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Петров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="143307631">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Багаев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="143312727">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Москаленко</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="143685887">
+      <data key="d0">2</data>
+      <data key="d1">Антон</data>
+      <data key="d2">Блохин</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="143930062">
+      <data key="d0">2</data>
+      <data key="d1">Данил</data>
+      <data key="d2">Жерихов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="143930330">
+      <data key="d0">2</data>
+      <data key="d1">Сергей</data>
+      <data key="d2">Зотеев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="144167596">
+      <data key="d0">2</data>
+      <data key="d1">Константин</data>
+      <data key="d2">Резников</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="144179043">
+      <data key="d0">2</data>
+      <data key="d1">Денис</data>
+      <data key="d2">Жарков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="144789707">
+      <data key="d0">2</data>
+      <data key="d1">Анатолий</data>
+      <data key="d2">Порошенко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="144875169">
+      <data key="d0">2</data>
+      <data key="d1">Владислав</data>
+      <data key="d2">Ежов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="144882365">
+      <data key="d0">2</data>
+      <data key="d1">Тимофей</data>
+      <data key="d2">Кудряшев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="144955578">
+      <data key="d0">2</data>
+      <data key="d1">Федор</data>
+      <data key="d2">Герасимов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="144997775">
+      <data key="d0">2</data>
+      <data key="d1">Данила</data>
+      <data key="d2">Якименко</data>
+      <data key="d3" />
+    </node>
+    <node id="145062267">
+      <data key="d0">2</data>
+      <data key="d1">Арсений</data>
+      <data key="d2">Успенский</data>
+      <data key="d3" />
+    </node>
+    <node id="145197183">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Сидельникова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="145266149">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Машаров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="145292039">
+      <data key="d0">1</data>
+      <data key="d1">Анна</data>
+      <data key="d2">Пшембаева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145406546">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Рыков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="145451514">
+      <data key="d0">2</data>
+      <data key="d1">Павел</data>
+      <data key="d2">Данилов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145474280">
+      <data key="d0">1</data>
+      <data key="d1">Аня</data>
+      <data key="d2">Плотникова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145492576">
+      <data key="d0">2</data>
+      <data key="d1">Михаил</data>
+      <data key="d2">Никитин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145494775">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Герасимов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145496589">
+      <data key="d0">2</data>
+      <data key="d1">Никита</data>
+      <data key="d2">Свиридов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145572725">
+      <data key="d0">1</data>
+      <data key="d1">Татьяна</data>
+      <data key="d2">Захарова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145608100">
+      <data key="d0">1</data>
+      <data key="d1">Арина</data>
+      <data key="d2">Миронова</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="145645332">
+      <data key="d0">2</data>
+      <data key="d1">Ваня</data>
+      <data key="d2">Якушин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145647904">
+      <data key="d0">2</data>
+      <data key="d1">Даниил</data>
+      <data key="d2">Стыров</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145678884">
+      <data key="d0">2</data>
+      <data key="d1">Виктор</data>
+      <data key="d2">Барышников</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="145704910">
+      <data key="d0">2</data>
+      <data key="d1">Петр</data>
+      <data key="d2">Буланов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="145721192">
+      <data key="d0">1</data>
+      <data key="d1">Виктория</data>
+      <data key="d2">Николаева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="145867161">
+      <data key="d0">1</data>
+      <data key="d1">Егор</data>
+      <data key="d2">Евстафьев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="145897412">
+      <data key="d0">1</data>
+      <data key="d1">Валерия</data>
+      <data key="d2">Дмитриевна</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="146123563">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Ужегов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="146146750">
+      <data key="d0">2</data>
+      <data key="d1">Андрей</data>
+      <data key="d2">Сагалаков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="146333973">
+      <data key="d0">2</data>
+      <data key="d1">Илья</data>
+      <data key="d2">Николаев</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="146362949">
+      <data key="d0">2</data>
+      <data key="d1">Иван</data>
+      <data key="d2">Якимов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="146493289">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Мамаева</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="146525727">
+      <data key="d0">2</data>
+      <data key="d1">Данил</data>
+      <data key="d2">Гусак</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="146544861">
+      <data key="d0">1</data>
+      <data key="d1">Полина</data>
+      <data key="d2">Церегородцева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="146618590">
+      <data key="d0">2</data>
+      <data key="d1">Артём</data>
+      <data key="d2">Лялин</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="146663962">
+      <data key="d0">2</data>
+      <data key="d1">Алексей</data>
+      <data key="d2">Шатров</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="146801193">
+      <data key="d0">1</data>
+      <data key="d1">Люба</data>
+      <data key="d2">Воронина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="146803297">
+      <data key="d0">1</data>
+      <data key="d1">Дарья</data>
+      <data key="d2">Шаматова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="146998569">
+      <data key="d0">2</data>
+      <data key="d1">Александр</data>
+      <data key="d2">Таусенев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="147087506">
+      <data key="d0">2</data>
+      <data key="d1">Бахтияр</data>
+      <data key="d2">Хамитов</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="147218238">
+      <data key="d0">1</data>
+      <data key="d1">Алиса</data>
+      <data key="d2">Нечаева</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="147276194">
+      <data key="d0">1</data>
+      <data key="d1">Рина</data>
+      <data key="d2">Балерина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="147304647">
+      <data key="d0">1</data>
+      <data key="d1">Анфиса</data>
+      <data key="d2">Балюк</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="147402250">
+      <data key="d0">2</data>
+      <data key="d1">Георгий</data>
+      <data key="d2">Быков</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="147402331">
+      <data key="d0">2</data>
+      <data key="d1">Тёма</data>
+      <data key="d2">Карасев</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="147609504">
+      <data key="d0">2</data>
+      <data key="d1">Игорь</data>
+      <data key="d2">Собина</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="147719875">
+      <data key="d0">2</data>
+      <data key="d1">Максим</data>
+      <data key="d2">Гавриленко</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="147843624">
+      <data key="d0">2</data>
+      <data key="d1">Миша</data>
+      <data key="d2">Самсонов</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="147977060">
+      <data key="d0">2</data>
+      <data key="d1">Влад</data>
+      <data key="d2">Ходенков</data>
+      <data key="d3">МГУ</data>
+    </node>
+    <node id="148027456">
+      <data key="d0">1</data>
+      <data key="d1">Катя</data>
+      <data key="d2">Корешкова</data>
+      <data key="d3">-1</data>
+    </node>
+    <node id="148033238">
+      <data key="d0">2</data>
+      <data key="d1">Дима</data>
+      <data key="d2">Галкин</data>
+      <data key="d3">ГУМФ (бывш. АБИК)</data>
+    </node>
+  </graph>
+</graphml>
